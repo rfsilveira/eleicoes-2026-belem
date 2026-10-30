@@ -4,9 +4,7 @@ Mapa interativo do resultado do 2º turno da eleição presidencial de 2026 em B
 Tribunal Superior Eleitoral (TSE). Cada ponto é colorido pelo candidato mais votado:
 🔴 **vermelho = Lula (PT)** · 🔵 **azul = Flávio Bolsonaro (PL)** · ⚪ cinza = empate.
 
-🔗 **Mapa online:** `https://rfsilveira.github.io/eleicoes-2026-belem/` (ative o GitHub Pages em *Settings → Pages →
-Branch `main`, pasta `/docs`*)
-
+🔗 **Mapa online:** `https://rfsilveira.github.io/eleicoes-2026-belem/` 
 ## Resultado (Belém, votos válidos)
 
 | | Lula (PT) | Flávio Bolsonaro (PL) |
