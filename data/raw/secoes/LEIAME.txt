@@ -1,0 +1,4 @@
+Coloque aqui os dois CSVs do TSE (veja o README.md na raiz do projeto):
+  bweb_2t_PA_BEL_29102026.csv
+  eleitorado_local_votacao_2026_PA_belem.csv
+Estes arquivos não são versionados (data/raw/ está no .gitignore).

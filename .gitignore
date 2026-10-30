@@ -1,0 +1,16 @@
+# Dados brutos do TSE: baixe conforme o README (não versionar)
+data/raw/**/*.csv
+data/raw/**/*.zip
+
+# Saída gerada (o mapa publicado fica em docs/index.html)
+saida/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editores / sistema
+.vscode/
+.idea/
+Thumbs.db
